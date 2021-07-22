@@ -1,7 +1,8 @@
 # Conversor: Binario, Hexadecimal, Octal e Decimal.
 ---
  Imagens dele:
-![imagem1](https://user-images.githubusercontent.com/83858687/126614959-89a53f3c-b047-44ed-83b3-046a82ea1daa.png)
+ ![imagem800x490](https://user-images.githubusercontent.com/83858687/126615982-a866b642-f1d5-40a4-95d7-880e088d8c84.png)
+
 ---
 ![imagem2](https://user-images.githubusercontent.com/83858687/126615027-332fbf55-bd09-4f69-8882-ed34930b84ed.png)
 ---
