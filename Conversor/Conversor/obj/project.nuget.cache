@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9SrLCq896cYppN/o/mtdU75BtgwXLY4+xqPxb4+2bMESEoBmhgt7IHUWIyiEbvpD6Dm7c03PMf4JhYxI3Mhohg==",
+  "dgSpecHash": "mQpPJul18e/qoYNqTRqfC94aCB2pnssHqeVCewi+iorVdRU1rkN+fsZcw04cpn87rs64glnr5AMxcCuaSnziwg==",
   "success": true,
-  "projectFilePath": "D:\\ambiente\\mini-projects\\Conversor\\Conversor\\Conversor.csproj",
+  "projectFilePath": "D:\\ambiente\\mini-projects\\project-github\\Converter_binary\\Conversor\\Conversor\\Conversor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

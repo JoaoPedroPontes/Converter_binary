@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ambiente\\mini-projects\\Conversor\\Conversor\\Conversor.csproj": {}
+    "D:\\ambiente\\mini-projects\\project-github\\Converter_binary\\Conversor\\Conversor\\Conversor.csproj": {}
   },
   "projects": {
-    "D:\\ambiente\\mini-projects\\Conversor\\Conversor\\Conversor.csproj": {
+    "D:\\ambiente\\mini-projects\\project-github\\Converter_binary\\Conversor\\Conversor\\Conversor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ambiente\\mini-projects\\Conversor\\Conversor\\Conversor.csproj",
+        "projectUniqueName": "D:\\ambiente\\mini-projects\\project-github\\Converter_binary\\Conversor\\Conversor\\Conversor.csproj",
         "projectName": "Conversor",
-        "projectPath": "D:\\ambiente\\mini-projects\\Conversor\\Conversor\\Conversor.csproj",
+        "projectPath": "D:\\ambiente\\mini-projects\\project-github\\Converter_binary\\Conversor\\Conversor\\Conversor.csproj",
         "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-        "outputPath": "D:\\ambiente\\mini-projects\\Conversor\\Conversor\\obj\\",
+        "outputPath": "D:\\ambiente\\mini-projects\\project-github\\Converter_binary\\Conversor\\Conversor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaop\\AppData\\Roaming\\NuGet\\NuGet.Config",
