@@ -12,6 +12,8 @@ namespace Conversor
 {
     public partial class FormMain : Form
     {
+
+        int numconvert;
         string selected;
         string language = "english";
 
@@ -34,7 +36,10 @@ namespace Conversor
 
         private void btn_convert_Click(object sender, EventArgs e)
         {
-            int numconvert = int.Parse(box_value.Text);
+            if (box_value.Text != "")
+             numconvert = int.Parse(box_value.Text);
+
+
             if (selected == "binary")
                 txt_resultado.Text = Convert.ToString(numconvert, 2);
             else if (selected == "hexa")
